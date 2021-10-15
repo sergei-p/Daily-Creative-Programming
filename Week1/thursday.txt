@@ -1,0 +1,2 @@
+Created a program that simulates rain in the console by using an infinite loop.
+Program can only be stopped by giving a SIGINT(ctr+c) signal.
